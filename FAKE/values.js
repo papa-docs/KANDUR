@@ -2,21 +2,21 @@
 
 // Основные данные 
 var fio               = "Кандур Арсен Павлович";
-var fio_en            = "Novitskyi Bohdan";
+var fio_en            = "Kandur Arsen";
 var birth             = "02.01.2007"; //дата рождения
-var date_give         = "18.11.2019"; //Дата видачи
+var date_give         = "08.09.2022"; //Дата видачи
 var date_out          = "08.09.2026"; // действителен до
-var organ             = "5149"; //орган что выдал документ
+var organ             = "5116"; //орган что выдал документ
 var rnokpp            = "3582290450"; //ИНН
 var uznr              = "20070102-09771"; //Номер записи
 var pass_number       = "008196415"; //номер паспорта
 
-var registeredOn      = "20.09.1999"; //дата регистрации
+var registeredOn      = "08.09.2022"; //дата регистрации
 
 // Прописка
 var legalAdress       = "М. Одеса, Одеська область"; //Место проживание
 var live              = "М. Одеса, Одеська область"; //Место рождение 
-var bank_adress       = "Вiнницька область, С. КОРСУНЦІ КОМІНТЕРНІВСЬКИЙ РАЙОН ОДЕСЬКА ОБЛАСТЬ ВУЛ. ЗАЛІЗНИЧНА БУД. 44"; //Место жительства указано в банке
+var bank_adress       = "Одеська область, С. КОРСУНЦІ КОМІНТЕРНІВСЬКИЙ РАЙОН ОДЕСЬКА ОБЛАСТЬ ВУЛ. ЗАЛІЗНИЧНА БУД. 44"; //Место жительства указано в банке
 
 var sex               = "Ч";
 var sex_en            = "M";
@@ -42,8 +42,8 @@ var form              = "Очная";
 
 // заграник
 var zagran_number     = "GE893359"; //номер загран
-var dateGiveZ         = "18.11.2019"; //выдан загран
-var dateOutZ          = "18.11.2029"; //коньчаеться загран
+var dateGiveZ         = "23.01.2023"; //выдан загран
+var dateOutZ          = "23.01.2033"; //коньчаеться загран
 
 var student_number    = "2022154258";
 var student_date_give = "23.01.2023";
@@ -60,13 +60,14 @@ var isStudyEnabled    = false;
 
 // Пути к нужным фото    ?timestamp=N   "photo.jpg?timestamp=N" динамически: var url = "photo.jpg?timestamp=" + N;
 
-var photo_passport = "image_2025-10-22_14-44-50.png"; //эДок, паспорт,
+var photo_passport = "2.png"; //эДок, паспорт,
 var photo_rights   = "11221.png"; //права
-var photo_students = "image_2025-10-22_14-44-50.png"; //диплом, студ
-var photo_zagran   = "1gdg55.png"; //загран
+var photo_students = "3.png"; //диплом, студ
+var photo_zagran   = "3.png"; //загран
 
 var signPng           = "sign.png"; //подпись
 // Можно добавить еще, если надо
+
 
 
 
