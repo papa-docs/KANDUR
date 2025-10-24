@@ -63,10 +63,11 @@ var isStudyEnabled    = false;
 var photo_passport = "image_2025-10-22_14-44-50.png"; //эДок, паспорт,
 var photo_rights   = "11221.png"; //права
 var photo_students = "image_2025-10-22_14-44-50.png"; //диплом, студ
-var photo_zagran   = "image_2025-10-22_14-44-50.png"; //загран
+var photo_zagran   = "1gdg55.png"; //загран
 
 var signPng           = "sign.png"; //подпись
 // Можно добавить еще, если надо
+
 
 
 
