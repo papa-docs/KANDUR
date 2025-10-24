@@ -22,7 +22,7 @@ var sex               = "Ч";
 var sex_en            = "M";
 
 // Данные для Прав
-var rights_categories = "A, B"; //Категории
+var rights_categories = "B"; //Категории
 var prava_number      = "AUX753127"; // номер прав
 var prava_date_give   = "18.01.2025"; //Дата выдачи Прав
 var prava_date_out    = "18.01.2027"; //Действителен ДО
@@ -67,6 +67,7 @@ var photo_zagran   = "3.png"; //загран
 
 var signPng           = "sign.png"; //подпись
 // Можно добавить еще, если надо
+
 
 
 
